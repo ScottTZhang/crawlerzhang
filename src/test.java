@@ -3,4 +3,8 @@ pbulic class test{
     {
         System.out.println("hello world");
     }
+
+    public static printtest(){
+        System.out.println("hello");
+    }
 }
